@@ -6,8 +6,8 @@ export const GlobalStyle = createGlobalStyle`
     padding: 0;
     box-sizing: border-box;
   };
-  body, input, textarea  {
-    font: 400 1rem 'Roboto', sans-serif;
+  body, input, textarea, h1, strong, button {
+    font: 400 1rem 'Inter', sans-serif;
     color: #FFFFFF;
   };
 `
