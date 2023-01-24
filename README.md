@@ -1,12 +1,11 @@
 <h1 align="center">DevLinks</h1>
 <p align="center">
-Esse projeto exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://www.rocketseat.com.br/">Rocketseat🔗</a>.
-</p> <br/><br/>
-
-<p align="center">
 Erick Marques Cabral
 </p>
+<p align="center">
+Esse projeto exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+<a href="https://www.rocketseat.com.br/">Rocketseat🔗</a>.
+</p> <br/>
 
 <p align="center">
   <a href="#-descrição">Descrição do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
