@@ -2,6 +2,10 @@
 <p align="center">
 Esse projeto exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 <a href="https://www.rocketseat.com.br/">Rocketseat🔗</a>.
+</p> <br/><br/>
+
+<p align="center">
+Erick Marques Cabral
 </p>
 
 <p align="center">
@@ -40,4 +44,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
     
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/7Ol3gE5HQgnS75LF6R5ObQ/DevLinks-(Community)?node-id=90%3A160&t=67rrKE0MH89yLtTU-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
