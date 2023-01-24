@@ -22,9 +22,6 @@ Nesse projeto, desenvolvi uma aplicação com Vite no interesse de aprender sobr
 
 - Listagem de botões
 
-
-## 🚀 Tecnologias
-
 Apesar de serem poucas funcionalidades, precisei abordar conceitos como:
 
 - Estados
@@ -32,6 +29,7 @@ Apesar de serem poucas funcionalidades, precisei abordar conceitos como:
 - Propriedades
 - Componentização
 
+## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
