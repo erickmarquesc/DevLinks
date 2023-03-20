@@ -5,10 +5,11 @@ interface IContainerProps{
 }
 
 export const Container = styled.div<IContainerProps>`
-  height: 100vh;
+  height: 100%;
+  min-width: 254px;
   padding: 2rem 0 2rem;
   background-image: url(${props => props.img});
-  min-width: 254px;
+  
 `;
 
 export const Content = styled.div`
