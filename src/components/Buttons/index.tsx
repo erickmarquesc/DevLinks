@@ -1,4 +1,4 @@
-import { Button } from "./styles";
+import { Button } from "./styles"
 
 interface IButtonLinkProps {
   nameButton: string;
@@ -7,13 +7,11 @@ interface IButtonLinkProps {
 
 export function ButtonLink({ nameButton, urlButton }: IButtonLinkProps) {
   return (
-    <a
+    <Button
       href={urlButton}
       target="_blank"
     >
-      <Button>
-        {nameButton}
-      </Button>
-    </a>
+      {nameButton}
+    </Button>
   );
 };
