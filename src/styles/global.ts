@@ -6,10 +6,12 @@ export const GlobalStyle = createGlobalStyle`
     padding: 0;
     box-sizing: border-box;
   };
-  body, input, textarea, h1, strong, button {
-    font: 400 1rem 'Inter', sans-serif;
+
+  html{
+    font: 400 10px 'Inter', sans-serif;
     color: #FFFFFF;
-  };
+
+  }
 
     /* Estiliza a barra de rolagem */
   ::-webkit-scrollbar {

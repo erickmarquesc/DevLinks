@@ -1,30 +1,11 @@
-import styled from "styled-components";
+import styled from "styled-components"
 
-export const ButtonContainer = styled.div`
-  gap: 16px;
-  width: 100%;
-  padding: 24px;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  justify-content: center;
-
-  a{
-    width: 100%;
-  }
-`;
-
-export const Button = styled.button`
-
-width: 312px;
-
-  @media (min-width: 700px){
-    width: 588px;
-  }
-
+export const Button = styled.a`
+  all: inherit;
   color: white;
-  font: normal 16px;
-  padding: 16px 24px;
+  min-width: 450px;
+  font-size: 1.8rem;
+  padding: 12px 24px;
   border-radius: 8px;
   border: solid 1px white;
   background: rgba(0,0,0,0.2);
